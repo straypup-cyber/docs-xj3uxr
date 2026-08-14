@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-rspyd2.kujang138.shop/sitemap.xml
